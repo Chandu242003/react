@@ -40,7 +40,7 @@ const Body = () => {
             </div>
             <div style={{ paddingTop: '50px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column',  marginBottom:'100px'}}>
                 {/* pass down url link in url attribuite */}
-                <ReactPlayer url={'https://www.youtube.com/watch?v=rViLhlx7PjY'} height={200} controls />
+                <ReactPlayer url={'https://www.youtube.com/watch?v=nCBNNQzqkF4'} height={200} controls />
                 <div>
                     <p>i like this {fruits[index].fruit}</p>
             <button onClick={change}>Change me</button>
