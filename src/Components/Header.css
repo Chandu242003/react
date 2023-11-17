@@ -7,7 +7,7 @@
 .Header{
     text-align: center;
     -webkit-text-fill-color: blue;
-    background-image: linear-gradient(orange,white,green);
+    background-image: linear-gradient(orange,pink);
     font-style: oblique;
     font-size: 2rem;
     padding:20px;
