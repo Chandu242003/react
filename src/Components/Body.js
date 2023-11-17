@@ -14,7 +14,7 @@ const Body = () => {
     const [fruits] = useState([
         { fruit: 'water melon' },
         { fruit: 'apple' },
-        {fruit:'mango'}
+        {fruit:'orange'}
     ])
     const [index, setIndex] = useState(0)  // 1
     function change() {  //0+1%3
